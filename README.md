@@ -1,3 +1,7 @@
+Screen to-do-list app
+
+![image](https://github.com/user-attachments/assets/ac7a6def-1f91-42b9-8896-af6a1f6f0daf)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
